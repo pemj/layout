@@ -1,3 +1,4 @@
+//variant with simpler wall calculations
 bed_width = 82;
 computer_corner = 59.5;
 closet_corner = 25.5;
